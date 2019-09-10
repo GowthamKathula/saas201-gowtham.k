@@ -1,0 +1,46 @@
+h1
+{
+font-size:40px;
+text-align:center;
+}
+label
+{
+font-size:30px;
+}
+.box
+{
+margin-left:29%;
+}
+#rollno
+{
+padding:10px;
+}
+#rollno1
+{
+padding:8px;
+width:50%
+}
+.box1
+{
+display:inline;
+}
+#submit1
+{
+border:3px red solid;
+background-color: red;
+color:black;
+text-decoration: none;
+padding:10px;
+font-size:15px;
+margin-left:22%;
+margin-top:20px;
+}
+#submit2
+{
+background-color:green;
+color:white;
+padding:10px;
+font-size:15px;
+margin-left:5%;
+}
+
